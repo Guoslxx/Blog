@@ -5,3 +5,6 @@ Babel转换源码分为三个步骤:
 - 解析（parse）： 进行词法分析（Lexical Analysis）和语法分析（Syntactic Analysis）以生成抽象语法树（AST）；
 - 转换 (transform)： 遍历AST中每个节点并进行相应的转换操作，该过程通过使用不同的插件来实现各种特性和语法的转换；
 - 生成 (generate)： 根据AST生成目标代码
+
+TEST
+
